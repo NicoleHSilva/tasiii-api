@@ -15,4 +15,4 @@ function validarChamado(titulo: string): boolean {
 }
 
 export default validarChamado;
-validarChamado("Oi");
+validarChamado("12345"); // Exemplo de uso
