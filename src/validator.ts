@@ -15,4 +15,4 @@ function validarChamado(titulo: string): boolean {
 }
 
 export default validarChamado;
-validarChamado('a'.repeat(101)); // Exemplo de uso
+validarChamado('a'.repeat(100)); // Exemplo de uso
